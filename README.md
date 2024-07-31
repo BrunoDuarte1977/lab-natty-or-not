@@ -1,4 +1,4 @@
-# 25 Ervas Medicinais que Acalmam "após um dia puxado de programação" 🌌
+# 25 Ervas Medicinais que Acalmam "após um dia puxado de programação" 🌱
 
 ## 📒 Descrição
 Este e-book de 8 páginas descreve 25 ervas medicinais que acalmam; exemplifica seus usos e benefícios.

@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para listar as ervas, seus usos, benefícios e estruturar o
 ## 🚀 Resultados
 O e-book apresenta várias ervas medicinais, descreve e explica seus usos e beneficios para vc relaxar após um dia cheio de trabalho.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/BrunoDuarte1977/lab-natty-or-not/blob/main/exemplos/25ErvasMedicinaisqueAcalmam.pdf)
+[LINK PARA O E-BOOK AQUI](https://github.com/BrunoDuarte1977/lab-natty-or-not/blob/main/exemplos/25ErvasMedicinaisqueAcalmam.pdf) Atalho para download: Ctrl + shift + s
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência enriquecedora. Com força de vontade e boas ideias, qualquer pessoa pode aproveitar as potencialidades da IA para gerar conteúdos de qualidade. (Obs.: Texto revisado utilizando o Copilot)
